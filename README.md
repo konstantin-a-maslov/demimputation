@@ -1,1 +1,25 @@
-# demimputation
+# DEM imputation
+
+[Konstantin A. Maslov](https://people.utwente.nl/k.a.maslov), [Thomas Schellenberger](https://www.mn.uio.no/geo/english/people/aca/geohyd/thosche/), [Claudio Persello](https://people.utwente.nl/c.persello), [Alfred Stein](https://people.utwente.nl/a.stein)
+
+<br/>
+
+**The repository is in progress!**
+
+<br/>
+
+
+## License
+
+This software is licensed under the [GNU General Public License v2](LICENSE).
+
+
+## Citing
+
+To cite the paper/repository, please use the following bib entry. 
+
+```
+@article{
+  ...
+}
+```
