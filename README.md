@@ -22,7 +22,7 @@ conda activate demimputation
 <br/>
 
 After the installation is complete, data for imputation should be prepared. 
-For brevity, we uploaded only a subset of glaciers presented in the original study to this repository. 
+For brevity, we uploaded only a subset of three glaciers presented in the original study to this repository. 
 The data format can be copied from there. 
 Make sure to reproject Cop30DEM to the Hugonnet et al. grid before imputation.
 
